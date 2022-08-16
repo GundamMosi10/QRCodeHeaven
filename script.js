@@ -45,6 +45,8 @@ const hideSpinner = () => {
 
 const clearUI = () => { //function to clear the UI or previously created QR code
     qr.innerHTML = '';
+    const saveLink = document.getElementById('save-link');
+    if (saveLink) saveLink.remove();
 };
 
 const createSaveBtn = (saveUrl) => {
