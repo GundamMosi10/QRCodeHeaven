@@ -18,7 +18,7 @@ A website that allows you to create and save a QR code image by typing a URL in 
     -- [Test](#test)
 
 ## Usage:
-
+Here is a link to a [demo](https://gundammosi10.github.io/QRCodeHeaven/)
 ## Installation:
 
 ## License:
