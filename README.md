@@ -2,6 +2,7 @@
 
 ## Description:
 A website that allows you to create and save a QR code image by typing a URL in the input box and pressing the generate QR code button. 
+
 ## Table of Contents:
     -- [Usage](#usage)
 
@@ -19,6 +20,8 @@ A website that allows you to create and save a QR code image by typing a URL in 
 
 ## Usage:
 Here is a link to a [demo](https://gundammosi10.github.io/QRCodeHeaven/)
+![Screenshot](./img/QRCodeHeavenScreenshot.png "screenshot of the website")
+
 ## Installation:
 
 ## License:
